@@ -1,6 +1,7 @@
 A website For Teckgeeks - A responsive 960 grid
 ==========================================================================
 Features
+
 •	Fixed Header.
 
 •	3 Column section With feature images.
